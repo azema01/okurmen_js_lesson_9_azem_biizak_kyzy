@@ -1,0 +1,17 @@
+p {
+    color: red;
+}
+
+a {
+    font-weight: 800;
+    color: blue;
+}
+.list-item {
+    color: green;
+    font-size: 30px;
+
+}
+
+.list-item:hover{
+    text-decoration: underline;
+}
